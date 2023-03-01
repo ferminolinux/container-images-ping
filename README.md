@@ -1,2 +1,2 @@
 # container-images-ping
-Simple ping container
+Simple ping command image 
